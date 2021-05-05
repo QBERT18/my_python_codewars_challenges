@@ -1,2 +1,2 @@
-# my_python_codewars_challenges
+# My Python Codewars Challenges
 All my Codewars Challenges Written in Python
