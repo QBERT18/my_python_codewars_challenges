@@ -1,8 +1,5 @@
-from SwapCaseUsingN import SwapCaseUsingN
-
-
 def main():
-    SwapCaseUsingN.swap('Hello world!', 11)
+    print("Import some package and execute the Code!")
 
 
 if __name__ == "__main__":
